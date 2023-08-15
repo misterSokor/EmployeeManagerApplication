@@ -1,7 +1,9 @@
 package employee;
 
 import java.sql.*;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Properties;
 
 public class EmployeeDirectory {
 
@@ -122,7 +124,7 @@ public class EmployeeDirectory {
      * @param sql
      * @param searchTerm
      */
-    private void searchEmployeesByTerm(Search search, String sql, String searchTerm) {
+    private void searchEmployeesByTerm(employee.Search search, String sql, String searchTerm) {
 
         Connection connection = null;
         PreparedStatement preparedStatement = null;
@@ -137,7 +139,7 @@ public class EmployeeDirectory {
             resultSet = preparedStatement.executeQuery();
 
             while (resultSet.next()) {
-                Employee employee = new Employee();
+                employee.Employee employee = new employee.Employee();
 
                 employee.setId(resultSet.getString("emp_id"));
                 employee.setFirstName(resultSet.getString("first_name"));
@@ -187,9 +189,9 @@ public class EmployeeDirectory {
      * @param searchTerm
      * @return search (Search object)
      */
-    public Search searchEmployees(String searchType, String searchTerm) {
+    public employee.Search searchEmployees(String searchType, String searchTerm) {
 
-        Search search = new Search();
+        employee.Search search = new employee.Search();
         String sql = null;
 
         if (searchType.equals("emp_id")) {
@@ -265,8 +267,8 @@ public class EmployeeDirectory {
      *
      * @return List of all employees
      */
-    public List<Employee> showEmployeeList() {
-        List<Employee> employeeList = new ArrayList<>();
+    public List<employee.Employee> showEmployeeList() {
+        List<employee.Employee> employeeList = new ArrayList<>();
         Connection connection = null;
         PreparedStatement preparedStatement = null;
         ResultSet resultSet = null;
@@ -278,7 +280,7 @@ public class EmployeeDirectory {
             resultSet = preparedStatement.executeQuery();
 
             while (resultSet.next()) {
-                Employee employee = new Employee();
+                employee.Employee employee = new employee.Employee();
                 employee.setId(resultSet.getString("emp_id"));
                 employee.setFirstName(resultSet.getString("first_name"));
                 employee.setLastName(resultSet.getString("last_name"));
