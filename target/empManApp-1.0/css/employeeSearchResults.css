@@ -1,0 +1,38 @@
+
+main img {
+    width: 70%; /* Set the image width to 50% of the main element */
+    display: block; /* To remove any residual space below the image */
+    margin: auto; /* Center the image horizontally */
+    padding: 50px;
+}
+
+main a {
+    margin: 0;
+    padding: 0;
+}
+
+main a img {
+    margin: auto;
+    padding: 0;
+    align-items: center;
+}
+
+.table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.table th,
+.table td {
+    padding: 8px;
+    text-align: left;
+    vertical-align: top;
+    border-bottom: 1px solid #2f4a4f;
+}
+
+.table th {
+    background-color: rgba(195, 205, 203, 0.48);
+    font-weight: bold;
+}
+
