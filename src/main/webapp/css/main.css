@@ -40,8 +40,32 @@ input[type="text"] {
     width: 120px;
     height: 30px;
     background-color:#cdc274;
+    box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.5);
 }
 
 .button:hover {
     background-color: rgba(220, 219, 175, 0.86);
+}
+
+@media only screen and (max-width: 768px) {
+
+    /* Adjust the width of input fields for smaller screens */
+    .inputSpace {
+        max-width: 90%;
+        /* Adjust this value as needed */
+    }
+
+    /* Center the button on smaller screens */
+    .contacts button {
+        margin: 10px auto;
+    }
+}
+
+/* Media query to hide the top navigation for larger screens */
+@media only screen and (min-width: 769px) {
+
+    /* Hide the top navigation */
+    .top {
+        display: none;
+    }
 }
