@@ -10,40 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4fd95ce-f9a6-47a5-a0b6-34c9fe9e897b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/EmployeeAdd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/EmployeeAdd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/project4.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project4.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/employeeSearch.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/employeeSearch.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/employeeSearchResults.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/employeeSearchResults.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/removeEmployee.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/removeEmployee.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/removeEmployeeResult.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/removeEmployeeResult.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/showHallList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/showHallList.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/ApplicationStartup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/ApplicationStartup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/ConnectionTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/ConnectionTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/EmployeeAddActionServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/EmployeeAddActionServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/EmployeeAddDisplayServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/EmployeeAddDisplayServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/EmployeeSearchResultsServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/EmployeeSearchResultsServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/EmployeeServletPageDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/EmployeeServletPageDisplay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/JDBCInsertEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/JDBCInsertEmployee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/JDBCPreparedStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/JDBCPreparedStatement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/JDBCSelectEmployees.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/JDBCSelectEmployees.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/RemoveEmployeeBySSNServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/RemoveEmployeeBySSNServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/ShowEmployeeListServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/ShowEmployeeListServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/employee/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/employee/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/employee/EmployeeDirectory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/employee/EmployeeDirectory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/employee/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/employee/Search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/project4.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/project4.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/empManApp-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/EmployeeAdd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/EmployeeAdd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/WEB-INF/classes/project4.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/WEB-INF/classes/project4.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/employeeSearch.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/employeeSearch.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/employeeSearchResults.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/employeeSearchResults.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/removeEmployee.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/removeEmployee.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/removeEmployeeResult.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/removeEmployeeResult.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/showHallList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/showHallList.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +123,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomcat 11.0.0-M1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M1" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+    <configuration name="Tomcat 11.0.0-M1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M1" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="18" nameIsGenerated="true">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -355,8 +332,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JDBCInsertEmployee" />
         <item itemvalue="Application.ConnectionTester" />
+        <item itemvalue="Application.JDBCInsertEmployee" />
       </list>
     </recent_temporary>
   </component>
@@ -397,7 +374,13 @@
       <workItem from="1692253540624" duration="900000" />
       <workItem from="1692290602330" duration="195000" />
       <workItem from="1692365618399" duration="3312000" />
-      <workItem from="1692387275332" duration="4517000" />
+      <workItem from="1692387275332" duration="8691000" />
+      <workItem from="1692418580302" duration="2959000" />
+      <workItem from="1692457367290" duration="12520000" />
+      <workItem from="1692566191748" duration="595000" />
+      <workItem from="1693240265788" duration="1713000" />
+      <workItem from="1693288829464" duration="145000" />
+      <workItem from="1693931283580" duration="424000" />
     </task>
     <servers />
   </component>

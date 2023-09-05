@@ -1,10 +1,10 @@
 package com.portfolio.empmanapp;
 
+import employee.EmployeeDirectory;
 import jakarta.servlet.ServletConfig;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
-import employee.EmployeeDirectory;
 
 import java.io.File;
 import java.io.FileReader;
