@@ -10,17 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4fd95ce-f9a6-47a5-a0b6-34c9fe9e897b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/project4.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project4.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/project4.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/project4.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/employee/EmployeeDirectory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/employee/EmployeeDirectory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/empManApp-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/WEB-INF/classes/project4.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/WEB-INF/classes/project4.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -380,7 +372,8 @@
       <workItem from="1692566191748" duration="595000" />
       <workItem from="1693240265788" duration="1713000" />
       <workItem from="1693288829464" duration="145000" />
-      <workItem from="1693931283580" duration="424000" />
+      <workItem from="1693931283580" duration="838000" />
+      <workItem from="1693966171392" duration="372000" />
     </task>
     <servers />
   </component>

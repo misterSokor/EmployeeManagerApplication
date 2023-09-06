@@ -206,7 +206,7 @@ public class EmployeeDirectory {
 
         return search;
     }
-///////////////// remove employees /////////////////
+/////////////////////////////////REMOVE EMPLOYEES////////////////////////
     /**
      * The removeEmployeeBySSN() method is used to remove an employee from the database based on their SSN (Social Security Number).
      *
