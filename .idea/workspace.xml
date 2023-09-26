@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="empManApp:war" />
+      <artifact name="empManApp:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,9 +10,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4fd95ce-f9a6-47a5-a0b6-34c9fe9e897b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/employee/EmployeeDirectory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/employee/EmployeeDirectory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/project4.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project4.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/employeeSearch.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/employeeSearch.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/employeeSearchResults.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/employeeSearchResults.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/ApplicationStartup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/ApplicationStartup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/RemoveEmployeeBySSNServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/RemoveEmployeeBySSNServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/project4.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/project4.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/empManApp-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/WEB-INF/classes/com/portfolio/empmanapp/ApplicationStartup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/WEB-INF/classes/com/portfolio/empmanapp/ApplicationStartup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/WEB-INF/classes/com/portfolio/empmanapp/RemoveEmployeeBySSNServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/WEB-INF/classes/com/portfolio/empmanapp/RemoveEmployeeBySSNServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/css/employeeSearch.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/css/employeeSearch.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/employeeSearchResults.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/employeeSearchResults.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +49,22 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/com/portfolio/empmanapp" />
     <option name="RESET_MODE" value="MIXED" />
     <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4b4cf7c3-67d5-42e6-8953-1de43652fb47" />
+        <option name="url" value="git@github.com:misterSokor/EmployeeManagerApplication.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -79,6 +110,11 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.3787721&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -88,7 +124,7 @@
       <recent name="$PROJECT_DIR$/src/main/webapp" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 11.0.0-M1">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 10.1.13">
     <configuration name="ConnectionTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.portfolio.empmanapp.ConnectionTester" />
       <module name="empManApp" />
@@ -115,18 +151,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomcat 11.0.0-M1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M1" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="18" nameIsGenerated="true">
-      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+    <configuration name="Tomcat 10.1.13" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.13" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="empManApp:war">
+        <artifact name="empManApp:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="c50e7cd3-6ba1-4e53-8f92-dfa569fffab7" />
+        <option name="BASE_DIRECTORY_NAME" value="fe278ff8-6ec8-4307-8c4f-d786d2064e32" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -204,7 +239,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="empManApp:war" />
+          <artifact name="empManApp:war exploded" />
         </option>
       </method>
     </configuration>
@@ -320,7 +355,7 @@
     <list>
       <item itemvalue="Application.ConnectionTester" />
       <item itemvalue="Application.JDBCInsertEmployee" />
-      <item itemvalue="Tomcat Server.Tomcat 11.0.0-M1" />
+      <item itemvalue="Tomcat Server.Tomcat 10.1.13" />
     </list>
     <recent_temporary>
       <list>
@@ -373,7 +408,34 @@
       <workItem from="1693240265788" duration="1713000" />
       <workItem from="1693288829464" duration="145000" />
       <workItem from="1693931283580" duration="838000" />
-      <workItem from="1693966171392" duration="372000" />
+      <workItem from="1693966171392" duration="2043000" />
+      <workItem from="1694000530823" duration="3616000" />
+      <workItem from="1694049582544" duration="334000" />
+      <workItem from="1694100808400" duration="196000" />
+      <workItem from="1694205248555" duration="5400000" />
+      <workItem from="1694229562111" duration="347000" />
+      <workItem from="1694272410864" duration="162000" />
+      <workItem from="1694355872008" duration="96000" />
+      <workItem from="1694367997464" duration="997000" />
+      <workItem from="1694438034040" duration="6443000" />
+      <workItem from="1694455681792" duration="397000" />
+      <workItem from="1694471757667" duration="3459000" />
+      <workItem from="1694523111004" duration="204000" />
+      <workItem from="1694532095488" duration="8000" />
+      <workItem from="1694542352368" duration="3879000" />
+      <workItem from="1694566213978" duration="1402000" />
+      <workItem from="1694880262944" duration="1619000" />
+      <workItem from="1694887938918" duration="8000" />
+      <workItem from="1695134611154" duration="3518000" />
+      <workItem from="1695141546995" duration="5957000" />
+      <workItem from="1695148381659" duration="935000" />
+      <workItem from="1695188526747" duration="658000" />
+      <workItem from="1695214656104" duration="47000" />
+      <workItem from="1695214723527" duration="578000" />
+      <workItem from="1695696967676" duration="761000" />
+      <workItem from="1695698014000" duration="391000" />
+      <workItem from="1695698426616" duration="3260000" />
+      <workItem from="1695732729610" duration="5926000" />
     </task>
     <servers />
   </component>
@@ -390,6 +452,36 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/employeeSearchResults.jsp</url>
+          <line>58</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/portfolio/empmanapp/EmployeeSearchResultsServlet.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/portfolio/empmanapp/ApplicationStartup.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/employee/EmployeeDirectory.java</url>
+          <line>126</line>
+          <properties class="employee.EmployeeDirectory" method="searchEmployeesByTerm">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

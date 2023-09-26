@@ -28,7 +28,17 @@ public class ApplicationStartup extends HttpServlet {
             Properties properties = new Properties();
 
 
-            File propertiesFile = new File("/Users/mac/IdeaProjects/EmployeeManagerApp/empManApp/src/main/resources/project4.properties");
+//            File propertiesFile = new File("project4.properties"); // this
+//            way the application can't find the project4.properties file is
+//            because you're trying to create a File object with a relative
+//            path "project4.properties". The application attempts to locate
+//            this file in the working directory rather than within the project's
+//            resources.
+
+            //This code retrieves the resource "project4.properties"
+            // from the classpath and creates a File object for it.
+            ClassLoader classLoader = getClass().getClassLoader();
+            File propertiesFile = new File(classLoader.getResource("project4.properties").getFile());
 
 
             properties.load(new FileReader(propertiesFile));

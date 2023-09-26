@@ -75,7 +75,7 @@ public class EmployeeDirectory {
                 // An employee with the same Social Security Number already exists
                 return "This employee is already registered.";
             } else {
-                // Insert the new employee into the database
+               // Insert the new employee into the database
                 preparedStatement = connection.prepareStatement(insertStatement);
 
                 preparedStatement.setString(1, firstName);

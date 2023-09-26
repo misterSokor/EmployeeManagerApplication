@@ -28,10 +28,12 @@ main a img {
 }
 
 input[type="text"] {
-    font-size: 16px; /* Adjust the font size */
+    font-size: 20px; /* Adjust the font size */
+    /*padding: 5px; !* Увеличьте отступы вокруг поля ввода по желанию *!*/
     width: 150px;    /* Adjust the width */
-    border-radius: 5px;
+    border-radius: 7px;
 }
+
 
 .button {
     font-size: 15px;

@@ -68,7 +68,6 @@ maven repository, this is why I am using scriplets instead of jstl--%>
                     </tr>
                     <% } %>
                     </tbody>
-                    </tbody>
                 </table>
             </c:if>
 
