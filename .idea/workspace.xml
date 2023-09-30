@@ -10,27 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4fd95ce-f9a6-47a5-a0b6-34c9fe9e897b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/74332dbe-b541-477c-9b3a-4071d5bbae28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/74332dbe-b541-477c-9b3a-4071d5bbae28.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/employee/EmployeeDirectory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/employee/EmployeeDirectory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/project4.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project4.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/employeeSearch.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/employeeSearch.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/employeeSearchResults.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/employeeSearchResults.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/ApplicationStartup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/ApplicationStartup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/RemoveEmployeeBySSNServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/RemoveEmployeeBySSNServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/ConnectionTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/empmanapp/ConnectionTester.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/project4.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/project4.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/WEB-INF/classes/com/portfolio/empmanapp/ApplicationStartup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/WEB-INF/classes/com/portfolio/empmanapp/ApplicationStartup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/WEB-INF/classes/com/portfolio/empmanapp/RemoveEmployeeBySSNServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/WEB-INF/classes/com/portfolio/empmanapp/RemoveEmployeeBySSNServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/css/employeeSearch.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/css/employeeSearch.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/employeeSearchResults.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/employeeSearchResults.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/WEB-INF/classes/com/portfolio/empmanapp/ConnectionTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/WEB-INF/classes/com/portfolio/empmanapp/ConnectionTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/empManApp-1.0/WEB-INF/classes/project4.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-1.0/WEB-INF/classes/project4.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/com/portfolio/empmanapp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -125,6 +113,13 @@
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 10.1.13">
+    <configuration name="ConnectionTester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConnectionTester" />
+      <module name="empManApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConnectionTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.portfolio.empmanapp.ConnectionTester" />
       <module name="empManApp" />
@@ -151,7 +146,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomcat 10.1.13" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.13" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+    <configuration name="Tomcat 10.1.13" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.13" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="openjdk-19" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="empManApp:war exploded">
@@ -353,6 +348,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.ConnectionTester (1)" />
       <item itemvalue="Application.ConnectionTester" />
       <item itemvalue="Application.JDBCInsertEmployee" />
       <item itemvalue="Tomcat Server.Tomcat 10.1.13" />
@@ -360,6 +356,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ConnectionTester" />
+        <item itemvalue="Application.ConnectionTester (1)" />
         <item itemvalue="Application.JDBCInsertEmployee" />
       </list>
     </recent_temporary>
@@ -435,7 +432,13 @@
       <workItem from="1695696967676" duration="761000" />
       <workItem from="1695698014000" duration="391000" />
       <workItem from="1695698426616" duration="3260000" />
-      <workItem from="1695732729610" duration="5926000" />
+      <workItem from="1695732729610" duration="13438000" />
+      <workItem from="1695781014651" duration="4159000" />
+      <workItem from="1695828834560" duration="335000" />
+      <workItem from="1695838078596" duration="1461000" />
+      <workItem from="1695914828299" duration="738000" />
+      <workItem from="1695954311507" duration="469000" />
+      <workItem from="1696031676798" duration="659000" />
     </task>
     <servers />
   </component>
@@ -465,11 +468,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/portfolio/empmanapp/EmployeeSearchResultsServlet.java</url>
           <line>42</line>
           <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/portfolio/empmanapp/ApplicationStartup.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/employee/EmployeeDirectory.java</url>
