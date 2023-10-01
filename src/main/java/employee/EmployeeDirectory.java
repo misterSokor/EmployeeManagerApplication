@@ -309,6 +309,7 @@ public class EmployeeDirectory {
                 sqlException.printStackTrace();
             }
         }
+        // for displaying to console
         System.out.println("Here is the list" + employeeList);
         return employeeList;
     }

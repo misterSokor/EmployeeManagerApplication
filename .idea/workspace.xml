@@ -10,9 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4fd95ce-f9a6-47a5-a0b6-34c9fe9e897b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/employee/EmployeeDirectory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/employee/EmployeeDirectory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/project4.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project4.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/project4.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/project4.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/empManApp-2.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-2.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/empManApp-2/META-INF/MANIFEST.MF" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/empManApp-2/WEB-INF/classes/project4.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/empManApp-2/WEB-INF/classes/project4.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -436,7 +437,7 @@
       <workItem from="1696031676798" duration="4202000" />
       <workItem from="1696081143798" duration="5556000" />
       <workItem from="1696097444896" duration="5146000" />
-      <workItem from="1696190982272" duration="877000" />
+      <workItem from="1696190982272" duration="3872000" />
     </task>
     <servers />
   </component>
