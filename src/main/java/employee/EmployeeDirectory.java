@@ -258,7 +258,7 @@ public class EmployeeDirectory {
         }
     }
 
-
+//    private static final Logger logger = LogManager.getLogger(ListTest.class);
 
 ///////////////////////////// show hall list of employees///////////////////
     /**
@@ -272,6 +272,8 @@ public class EmployeeDirectory {
         Connection connection = null;
         PreparedStatement preparedStatement = null;
         ResultSet resultSet = null;
+
+
 
         try {
             connection = createConnection();
@@ -307,6 +309,7 @@ public class EmployeeDirectory {
                 sqlException.printStackTrace();
             }
         }
+        System.out.println("Here is the list" + employeeList);
         return employeeList;
     }
 }
